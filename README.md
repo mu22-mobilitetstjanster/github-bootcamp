@@ -1,3 +1,5 @@
+Skapad av Zocom kollega, innehåller referenser till javascript men är menad att fungera främst som ett verktyg för att lära sig hantera git. Alla delar som kräver någon frontend erfarenhet förklaras i detalj och kodlösningar medföljer. Kodlösningar är **inte** relevanta, det som är relevant för övningen är de strategier som används för att lösa git konflikter.
+
 # Git instruktion
 Guider till git och relaterade ämnen. Skrivet i första hand för studenter på yrkeshögskola. Det mesta gäller för alla programmeringsutbildningar, men kodexempel är i första hand JavaScript.
 
